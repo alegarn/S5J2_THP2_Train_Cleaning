@@ -1,0 +1,8 @@
+Les explications sont dans "THP_Cleaning_Data.ipynb"
+
+Limites:
+- Manque de temps
+- Le manque d'expérience
+- Des unités sans cohérence dans les mesures
+- Idéogrammes
+- Données mal placées (chiffres dans les villes, région dans les villes...)
